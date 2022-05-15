@@ -1,7 +1,7 @@
 # Business Project(Metis Project 3)
 ## Credit Card Fraud Detection
 ![MIT-Fraud-Detection-PRESS](https://user-images.githubusercontent.com/42986304/168454957-1e2e46c3-3941-449b-b91b-45df93ab43c5.jpeg)
-we cannot ask a human person to check all transactions one by one if it is fraudulent or not. In other words banks and companies need automatic systems able to support fraud detection. Credit card frauds may occur in various ways. just to mention some, we can have stolen card fraud, cardholder-not-present fraud and application fraud:
+We cannot ask a human person to check all transactions one by one if it is fraudulent or not. In other words banks and companies need automatic systems able to support fraud detection. Credit card frauds may occur in various ways. just to mention some, we can have stolen card fraud, cardholder-not-present fraud and application fraud:
 Stolen card fraud is the most common type of fraud where the fraudster usually tries to spend as much as possible and as quickly as possible.
 Cardholder-not-present fraud is often observed in e-business.
 Application fraud corresponds to the application for a credit card with false personal information.
