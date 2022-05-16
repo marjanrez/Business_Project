@@ -22,6 +22,7 @@ The dataset contains transactions made by credit cards in 2016 by Capital One, i
 -  Transaction Amount
 #### And also, Categorical attributes such as:
 -  Merchant Name
+-  Merchant Category
 -  Transaction Type
 ### Tools:
 - Data sampling: Python
