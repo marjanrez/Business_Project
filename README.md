@@ -7,10 +7,9 @@ Cardholder-not-present fraud is often observed in e-business.
 Application fraud corresponds to the application for a credit card with false personal information.
 With this extensive use of credit cards, fraud appears as a major issue in the credit card business.
 Credit card fraud detection relies on the analysis of recorded transactions.
-
 Fraud detection is a collection of processes and techniques designed to identify, monitor, and prevent fraud.
 Detecting fraud is the first step in identifying where the risk lies. You can then prevent it automatically or even manually using some fraud detection software.
-Depending on the type of dataset, classification algorithm and accuracy measure adopted, we may have different strategies that return the best accuracy.
+
 - In this project, we are required to use Excel and Google Sheets for data cleaning and analysis, and then provide data visualization in Tableau. 
 First of all, I have used python to provide a sample of my main dataset and then import it in Excel and Tableau to do my data analysis.
 ###  Data:
