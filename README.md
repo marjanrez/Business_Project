@@ -24,9 +24,9 @@ The dataset contains transactions made by credit cards in 2016 by Capital One, i
 -  Merchant Name
 -  Transaction Type
 ### Tools:
--	Python
--	Exploratory data analysis in Excel and Google Sheets
--	Visualization in Tableau
+- Data sampling: Python
+- Data cleaning and analysis: Excel, Google Sheets
+- Visualizations: Excel, Google Sheets, Tableau
 ### Files/Folders:
 - Data
 - Presentation slides used to present this project
