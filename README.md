@@ -13,7 +13,7 @@ Detecting fraud is the first step in identifying where the risk lies. You can th
 - In this project, we are required to use Excel and Google Sheets for data cleaning and analysis, and then provide data visualization in Tableau. 
 First of all, I have used python to provide a sample of my main dataset and then import it in Excel and Tableau to do my data analysis.
 ###  Data:
-The dataset contains transactions made by credit cards in 2016 by Capital One, including 641914 instances and 29 columns. 
+The main dataset contains transactions made by credit cards in 2016 by Capital One, including 641914 instances and 29 columns. and my sample data includes 1300 instances and 29 columns. 
 #### Dataset includes some Numerical attributes such as:
 -  Available Money
 -	 Credit Limit
