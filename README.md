@@ -28,8 +28,8 @@ The main dataset contains transactions made by credit cards in 2016 by Capital O
 - Data cleaning and analysis: Excel, Google Sheets
 - Visualizations: Excel, Google Sheets, Tableau
 ### Files/Folders:
-- Data
-- Presentation slides used to present this project
+- Data: output2.csv & output3.csv
+- Presentation slides used to present this project: Presentation_Business.pdf
 - Write up the project.
 
 ### References:
