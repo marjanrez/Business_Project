@@ -30,7 +30,7 @@ The main dataset contains transactions made by credit cards in 2016 by Capital O
 ### Files/Folders:
 - Data: Output2.csv & Output3.csv
 - business_project.xlsx
-- business_project_data_sampling.ipyn
+- business_project_data_sampling.ipynb
 - Presentation slides used to present this project: Presentation_Business.pdf
 - Write up the project.
 
